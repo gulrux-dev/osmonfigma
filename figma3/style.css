@@ -1,0 +1,223 @@
+.otadiv{  
+    width: 1920px; 
+    height: 1080px;
+    background-image: url(rasm.jpg);
+}
+.responsive{
+    display: flex;
+    flex-wrap: wrap;
+}
+.rasm2{
+    width: 148px;
+    height: 67px;
+    margin-top: 20px;
+    margin-left:200px ;
+    gap: 10px;
+    opacity: 0px;
+
+}
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:60px ;
+    align-items: center;
+    justify-content: space-evenly;
+    opacity: 0px;
+     color: white;
+    margin-left: 250px;
+   
+}
+.yozuv{ 
+    width: 667px;
+    height: 48px;
+    margin-left: 627px;
+    font-size: 45px;
+    color: white;
+    margin-top: 250px;
+}
+.header{
+    margin-top: 50px;
+}
+.yozuv2{
+    width: 550px;
+    height: 34px;
+    margin-left: 650px;
+    margin-top: 50px;
+    font-size: 30px;
+    color: white;
+}
+.soz{
+    width: 150px;
+    background-color: blue;
+margin-top: 150px;
+margin-left: 844px;
+padding: 24px 32px 24px 32px;
+gap: 10px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+color: white;
+}
+.kvadrat{
+    display: flex;
+    flex-wrap: wrap ;
+    width: 1240px;
+    height: 82px;   
+    background-color: white;
+    margin: auto;
+    margin-top: 60px;
+}
+.malumot1{
+    width: 102px;
+    height: 16px;
+    margin-top: 32px;
+    margin-right: 5px;
+   opacity: 0px;
+   margin: auto;
+}
+.malumot2{
+    width: 142px;
+height: 32px;
+margin-top: 25px;
+margin-left: 441px;
+gap: 0px;
+opacity: 0px;
+margin: auto;
+}
+.malumot3{
+    width: 142px;
+height: 32px;
+margin-top: 25px;
+margin-left: 700px;
+gap: 0px;
+opacity: 0px;
+margin: auto;
+}
+.malumot4{
+    width: 86px;
+    height: 22px;
+    margin-top: 32px;
+    margin-left: 959px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+}
+.text{
+    width: 505px;
+    margin-top: 10px;
+    font-size: 19px;
+  
+}
+.doctor{
+    width: 400px;
+    height: 450px;
+    margin-top: 10px;
+}
+.text2{
+    width: 505px;
+    margin: auto;
+    opacity: 0px;
+    text-align: left;
+}
+.doctor2{
+    width: 400px;
+    height: 450px;
+}
+.text3{
+    width: 502px;
+    margin: auto;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 19px;
+
+    gap: 5px;
+    opacity: 0px;
+    text-align: left;
+}
+.doctor3{
+    width: 576px;
+    height: 300px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.text4{
+    width: 505px;
+    font-size: 19px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+    text-align: left;
+}
+
+.doctor4{
+    width: 399px;
+    height: 399px;
+    gap: 0px;
+    opacity: 0px;
+}    
+.yozuv3{
+    width: 1500px;
+    height: 29px;
+    font-size: 50px;
+    margin: 50px auto 100px;
+    text-align: center;
+}
+.section{
+    width: 1200px;
+    gap:10px;
+    margin: auto;
+}
+.frame{
+    display: flex;
+    flex-wrap:wrap ;
+    gap:10px;
+    margin-left: 350px;
+}
+.yozuv4{
+    border: 2px solid violet;
+    width: 1900px;
+    margin:150px auto;
+}   
+.yozuv5{
+    width: 129px;
+height: 29px;
+margin-top: 100px;
+margin-left: 800px;
+
+font-family: Inter;
+font-size: 55px;
+font-weight: 600;
+line-height: 29.12px;
+text-align: left;
+
+}
+.frame2{
+    display: flex;
+    flex-wrap: wrap;
+  
+   margin: 50px  450px;
+   gap: 20px;
+}
+   .birinchi{
+    display: flex;
+    flex-wrap: wrap;
+  margin-top: 300px;
+gap:150px;
+border:5px solid blue;
+   }
+   .belgi{
+    width: 200px;
+height: 114px;
+top: 24px;
+left: 752px;
+gap: 0px;
+opacity: 0px;
+
+   }
+   p{
+    margin-left: 20px;
+   }
+   h1{
+    margin-left: 20px;
+   }
